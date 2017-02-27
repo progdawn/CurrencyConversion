@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Currency Conversion</string>
+    <string name="txtTitle">Currency Converter</string>
+    <string name="hint">U.S. Dollars</string>
+    <string name="radEuros">Euros</string>
+    <string name="radPesos">Pesos</string>
+    <string name="radCanadian">Canadian</string>
+    <string name="btnConvert">Convert</string>
+    <string name="txtMyName">Created By Dawn Myers</string>
+</resources>
